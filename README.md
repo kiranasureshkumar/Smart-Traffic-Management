@@ -45,11 +45,11 @@ Deep learning has emerged as a powerful tool for optimizing traffic signal switc
 
 ## Connection Diagram
 
-![smart-traffic-management_bb](https://github.com/kiranasureshkumar/Smart-Traffic-Management/assets/109789967/1f9110b9-5982-449c-a5b3-0c7c596f7567)
+![smart-traffic-management_bb](https://github.com/kiranasureshkumar/Smart-Traffic-Management/assets/109789967/7523eef3-fa9c-43ed-a8df-c3b826ed6e6f)
 
 ## Architecture Diagram
 
-![Smart-Traffic-IOT drawio](https://github.com/kiranasureshkumar/Smart-Traffic-Management/assets/109789967/cfb2d6b1-6b6c-424c-80b6-0093a51e577a)
+![Smart-Traffic-IOT drawio](https://github.com/kiranasureshkumar/Smart-Traffic-Management/assets/109789967/6a51f7a3-ffc4-4269-8246-b26ac522cf8d)
 
 ## Authors
 
